@@ -1,0 +1,11 @@
+C:\Users\Djok\source\repos\AuchParser\AuchParser\bin\Debug\AuchParser.exe.config
+C:\Users\Djok\source\repos\AuchParser\AuchParser\bin\Debug\AuchParser.exe
+C:\Users\Djok\source\repos\AuchParser\AuchParser\bin\Debug\AuchParser.pdb
+C:\Users\Djok\source\repos\AuchParser\AuchParser\obj\Debug\AuchParser.AuchParser.resources
+C:\Users\Djok\source\repos\AuchParser\AuchParser\obj\Debug\AuchParser.Properties.Resources.resources
+C:\Users\Djok\source\repos\AuchParser\AuchParser\obj\Debug\AuchParser.csproj.GenerateResource.cache
+C:\Users\Djok\source\repos\AuchParser\AuchParser\obj\Debug\AuchParser.csproj.CoreCompileInputs.cache
+C:\Users\Djok\source\repos\AuchParser\AuchParser\obj\Debug\AuchParser.exe
+C:\Users\Djok\source\repos\AuchParser\AuchParser\obj\Debug\AuchParser.pdb
+C:\Users\Djok\source\repos\AuchParser\AuchParser\obj\Debug\AuchParser.csprojAssemblyReference.cache
+C:\Users\Djok\source\repos\AuchParser\AuchParser\obj\Debug\AuchParser.csproj.ResolveComReference.cache
